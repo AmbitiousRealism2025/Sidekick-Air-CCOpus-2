@@ -1,0 +1,7 @@
+export { Hero } from './Hero'
+export { OriginStory } from './OriginStory'
+export { Problem } from './Problem'
+export { Difference } from './Difference'
+export { NewStandard } from './NewStandard'
+export { CareApp } from './CareApp'
+export { JoinMovement } from './JoinMovement'
